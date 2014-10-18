@@ -6,19 +6,16 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Lanyon
-tagline:          'A Jekyll theme'
-description:      'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+title:            慢跑的袋鼠
+tagline:          'Keep running'
+description:      '记录点滴'
+url:              http://blog.arinic.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Arinic'
+  url:            http://weibo.com/arinic
 
 paginate:         5
 
 # Custom vars
 version:          1.0.0
-
-github:
-  repo:           https://github.com/poole/lanyon
